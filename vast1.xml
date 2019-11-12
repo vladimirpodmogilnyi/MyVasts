@@ -1,0 +1,10 @@
+<VAST version="2.0">
+<Ad id="DVBlockResponse">
+<InLine>
+<AdSystem><![CDATA[ doubleverify ]]></AdSystem>
+<AdTitle>DV Block Response</AdTitle>
+<Error><![CDATA[https://pixel.com?verr=[ERRORCODE]]]></Error>
+<Creatives/>
+</InLine>
+</Ad>
+</VAST>
