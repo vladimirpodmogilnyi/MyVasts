@@ -1,0 +1,10 @@
+<VAST version="2.0">
+<Ad id="DVBlockResponse">
+<Wrapper>
+<AdSystem><![CDATA[ doubleverify ]]></AdSystem>
+<VASTAdTagURI><![CDATA[ ]]></VASTAdTagURI>
+<Error><![CDATA[https://pixel.com?verr=[ERRORCODE]]]></Error>
+<Creatives/>
+</Wrapper>
+</Ad>
+</VAST>
